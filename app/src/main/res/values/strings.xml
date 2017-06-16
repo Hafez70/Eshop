@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">پلاک 9</string>
+    <string name="title_home">خانه</string>
+    <string name="title_category">کتگوری</string>
+    <string name="title_shopping_cart">سبد خرید</string>
+    <string name="title_wish_list">لیست علاقه</string>
+    <string name="title_profile">پروفایل</string>
+    <string name="str_nothing"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">در دست ساخت</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
